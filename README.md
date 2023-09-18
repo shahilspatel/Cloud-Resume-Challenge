@@ -8,12 +8,20 @@ One of the more commprehensive showcases of Cloud Computing Fundamentals is the 
 
 
 <h2>Languages and Utilities Used</h2>
-
-- <b>AWS</b> 
-- <b>Kubernetes</b>
-- <b>Jenkins</b>
-- <b>DockerHub</b>
-- <b>ArgoCD</b>
+S3
+AWS CloudFront
+Certificate Manager
+AWS Lambda
+Dynamo DB
+GitHub Actions
+Terraform
+- <b>AWS S3</b> 
+- <b>AWS Cloudfront</b>
+- <b>AWS Certificate Manager</b>
+- <b>AWS Lambda</b>
+- <b>DynamoDB</b>
+- <b>Github Actions</b>
+- <b>Terraform</b>
 
 <h2>Environments Used </h2>
 
