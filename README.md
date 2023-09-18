@@ -5,7 +5,6 @@
 One of the more commprehensive showcases of Cloud Computing Fundamentals is the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) developed by Forrest Brazeal. This is the complete implementation and documentation of the entire task to help improve my portfolio.
 
 
-<br />
 
 
 <h2>Languages and Utilities Used</h2>
